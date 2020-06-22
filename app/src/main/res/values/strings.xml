@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView+JsonParsing</string>
+    <string name="image">Image</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="like">Likes:</string>
+    <string name="imageofthecardview">ImageOfTheCardView</string>
+</resources>
